@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               "Let's Get Lost"
+tagline:             'Meandering Explorations of Shape and Space'
+description:         'Experimental notes from an experimental class that took place at <a href="http://www.hcssim.org" target="_blank">HCSSiM 2015</a>.'
+url:                 http://foolzone.com
+baseurl:             '/playground'
+markdown: 		     kramdown
+
+github:  			 'https://github.com/the13fools/lets-get-lost'
+
+# About/contact
+author:
+  name:              Josh Vekhter
+  url:               https://twitter.com/the13fools
+  email:             josh@vekhter.com
+
+# Custom vars
+version:             1.0.0
